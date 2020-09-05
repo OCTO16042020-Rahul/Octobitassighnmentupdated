@@ -17,13 +17,14 @@ Problem Statement 2-                            Using Apache Spark and Python, R
 # Libraries						
 						Pandas
 	                                        Numpy
-	                                        matplotlib
+	                                        pyspark
+						findspark
 # Process
 
 
 	-Extrated Data from PySpark and Save it to local System
-	 as Data1.csv
-	-Load data in Jupyter NoteBook
+	 as Data.csv
+	-Load data in Pycharm.
 	-Perform EDA(Exploratory Data Analysis)
 	-Extract the Beef cantain in Recipes
 	-calculated Total Cooking Time
