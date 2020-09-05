@@ -30,4 +30,5 @@ Problem Statement 2-                            Using Apache Spark and Python, R
 	-Calculated Average Cooking Time
 	-Labled the Recipes according to Difficulty Level
      -output in report.csv
-![Annotation 2020-09-03 115452](https://user-images.githubusercontent.com/21276619/92079750-117abb00-edde-11ea-917e-3d7a47002624.png)
+![WhatsApp Image 2020-09-04 at 21 42 42 (1)](https://user-images.githubusercontent.com/21276619/92307700-d3d08a80-efb5-11ea-9b8a-4a1ef570b971.jpeg)
+
